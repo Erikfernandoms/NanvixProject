@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "const.h": "c",
+        "unistd.h": "c",
+        "string.h": "c",
+        "syscall.h": "c",
+        "mm.h": "c",
+        "fs.h": "c",
+        "klib.h": "c",
+        "types.h": "c"
+    }
+}
